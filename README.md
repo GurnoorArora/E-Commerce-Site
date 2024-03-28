@@ -1,2 +1,1 @@
-# E-Commerce-Site
-Project for Web Programming Lab
+# Shopping Cart React
